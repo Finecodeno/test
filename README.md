@@ -1,2 +1,2 @@
 # test
-the first test repository
+это мой первый репозиторий
